@@ -19,6 +19,7 @@ public class Jurnal {
     public static void main(String[] args) {
         
         // input to print Fibonacci series upto how many numbers
+	    	System.out.print("INI REVERSE ");
 		System.out.print("Masukkan Angka: ");
 		int number = new Scanner(System.in).nextInt();
  
